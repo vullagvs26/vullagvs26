@@ -6,7 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=vullagvs26&label=Profile%20views&color=0e75b6&style=flat" alt="vullagvs26" /> 
 </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- Add your social media links here -->
 </p>
