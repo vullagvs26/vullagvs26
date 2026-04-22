@@ -1,62 +1,82 @@
-<h1 align="center">Hi 👋, I'm Vincent</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Vincent Vullag</h1>
+<h3 align="center">Full-Stack Developer | System Builder | Problem Solver</h3>
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=vullagvs26&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Profile views"
-  />
+  <a href="https://github.com/vullagvs26">
+    <img src="https://komarev.com/ghpvc/?username=vullagvs26&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
 </p>
 
 ---
 
-<h3 align="left">🛠 Languages and Tools</h3>
+## 🚀 About Me
+- 💻 Full-stack developer specializing in **Vue, Laravel, and modern web systems**
+- 🏢 Currently building systems for real-world business use
+- ⚡ Focused on **performance, scalability, and clean architecture**
+- 🎯 Goal: Become a **Tech Lead** and build impactful systems
 
-<p align="left">
-  <!-- Frontend & Styling -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
+---
 
-  <!-- Languages -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
+## 🧠 Tech Stack
 
-  <!-- Backend / DB -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
+### 🎨 Frontend
+<p>
+  <a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" /></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+  <a href="https://getbootstrap.com"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
+</p>
 
-  <!-- Tools -->
-  <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  </a>
+### ⚙️ Backend
+<p>
+  <a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" /></a>
+  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+</p>
+
+### 🗄️ Database
+<p>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+</p>
+
+### 🛠 Tools
+<p>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://postman.com/"><img src="https://skillicons.dev/icons?i=postman" /></a>
+  <a href="https://figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vullagvs26&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vullagvs26&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Key Strengths
+- 🧩 System Design & Architecture
+- ⚡ API Development & Optimization
+- 🎯 Clean UI/UX with Tailwind + Vue
+- 🔐 Authentication (JWT, Role-based systems)
+- 📈 Data Visualization & Dashboards
+
+---
+
+## 📌 Featured Projects
+- 🎫 Helpdesk System (Vue + Laravel + JWT)
+- 📊 Splunk Dashboard for Productivity Tracking
+- 🏫 School Management System
+
+---
+
+## 📫 Connect With Me
+<p>
+  <a href="www.linkedin.com/in/vullagvincent"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:vincentvullag@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
